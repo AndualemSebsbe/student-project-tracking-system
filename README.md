@@ -1,1 +1,1 @@
-# Student-Project-Tracking-System
+# student-project-tracking-system
